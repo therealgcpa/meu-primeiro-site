@@ -1,0 +1,7 @@
+git add . <== Adiciona todos os arquivos no stage
+
+git commit -m "mensagem" <== Adiciona uma mensagem ao stage que sera enviado
+
+git push <== Envia os dados para o GitHub
+
+git pull <== Trazer os dados de um repositório
